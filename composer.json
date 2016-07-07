@@ -1,0 +1,15 @@
+{
+  "name": "creonit/propel-content-behavior",
+  "type": "propel-behavior",
+  "keywords": [
+    "creonit",
+    "symfony",
+    "propel",
+    "behavior"
+  ],
+  "extra": {
+    "name": "content",
+    "class": "Creonit\\PropelBehaviorBundle\\Content\\ContentBehavior"
+  },
+  "license": "GNU GPLv3"
+}
