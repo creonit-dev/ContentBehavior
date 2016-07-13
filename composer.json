@@ -9,7 +9,12 @@
   ],
   "extra": {
     "name": "content",
-    "class": "Creonit\\PropelBehaviorBundle\\Content\\ContentBehavior"
+    "class": "Creonit\\PropelContentBundle\\ContentBehavior"
   },
-  "license": "GNU GPLv3"
+  "license": "GNU GPLv3",
+  "autoload": {
+    "psr-4": {
+      "Creonit\\PropelContentBundle\\": ""
+    }
+  }
 }
