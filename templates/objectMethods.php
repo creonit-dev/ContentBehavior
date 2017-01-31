@@ -4,6 +4,6 @@
         $column = $table->getColumn(trim($column));
 ?>
 
-<?
+<?php
     }
 ?>
